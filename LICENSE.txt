@@ -1,5 +1,1 @@
-This is the new line that has been added just right now.
-New Third line 
-New new line
-
-have to check sortcut of the commit from modification to commit 
+Edit by store
